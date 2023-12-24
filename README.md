@@ -21,3 +21,8 @@ Key Features:
     Implementation of TF-IDF for text preprocessing.
     Development and evaluation of multiple machine learning models.
     Comparative analysis of model performance.
+
+Acknowledgments:
+
+    CodeClause for the opportunity and mentorship during the internship.
+    Kaggle for providing the datasets used in the projects.
